@@ -1,5 +1,5 @@
 
-GUIDE TO SCONE RECIPE GENERATOR USING AN RNN.
+Guide to scone recipe generator using an RNN.
 ---------------------------------------------
 
 This repository contains the following files for generating scone recipes using a recurrent neural network (RNN).
